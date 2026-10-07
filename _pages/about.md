@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Wang Yaoru"
+title: "Yaoru Wang"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a master's student in Computer Technology (Electronic Information) at the College of Artificial Intelligence, Hainan Normal University (王垚儒), where I work at the intersection of remote sensing and artificial intelligence. My research centres on the mangroves and coastal waters of Hainan: reconstructing long-term habitat trajectories from satellite time series, classifying mangrove species at fine scale, and retrieving water depth from Sentinel-2 imagery. I am also exploring how quantum machine learning can be used for remote sensing image interpretation.
+I am a master's student in Computer Technology (Electronic Information) at the College of Artificial Intelligence, Hainan Normal University, where I work at the intersection of remote sensing and artificial intelligence. My research centres on the mangroves and coastal waters of Hainan: reconstructing long-term habitat trajectories from satellite time series, classifying mangrove species at fine scale, and retrieving water depth from Sentinel-2 imagery. I am also exploring how quantum machine learning can be used for remote sensing image interpretation.
 
-<img src="/images/photo-casual.jpg" alt="Wang Yaoru" style="float: right; width: 280px; max-width: 38%; margin: 0 0 1.2em 1.6em; border-radius: 4px;">
+<img src="/images/photo-casual.jpg" alt="Yaoru Wang" style="float: right; width: 280px; max-width: 38%; margin: 0 0 1.2em 1.6em; border-radius: 4px;">
 
 I am applying for PhD positions in Europe starting in 2027, and I am open to both CSC-funded and salaried (position-based) positions.
 

@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wang Yaoru"
+title                    : "Yaoru Wang"
 title_separator          : "-"
-name                     : &name "Wang Yaoru"
+name                     : &name "Yaoru Wang"
 description              : &description "Remote sensing and artificial intelligence - mangrove monitoring, satellite-derived bathymetry, quantum machine learning"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://michaelsalvator.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "MichaelSalvator/MichaelSalvator.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wang Yaoru"
+  name             : "Yaoru Wang"
   pronouns         : # example: "she/her"  
   bio              : "MSc student in Computer Technology at Hainan Normal University. Remote sensing meets deep learning: mangrove monitoring, satellite-derived bathymetry, quantum machine learning."
   location         : "Haikou, China"

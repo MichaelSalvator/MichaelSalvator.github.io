@@ -1,9 +1,9 @@
 # Authors
 #
-# Used when a page or post sets `author: Wang Yaoru` in its front matter.
+# Used when a page or post sets `author: Yaoru Wang` in its front matter.
 
-Wang Yaoru:
-  name        : "Wang Yaoru"
+Yaoru Wang:
+  name        : "Yaoru Wang"
   uri         :
   email       :
   bio         : "MSc student in Computer Technology at Hainan Normal University, working on remote sensing and artificial intelligence."
