@@ -1,0 +1,10 @@
+# Authors
+#
+# Used when a page or post sets `author: Wang Yaoru` in its front matter.
+
+Wang Yaoru:
+  name        : "Wang Yaoru"
+  uri         :
+  email       :
+  bio         : "MSc student in Computer Technology at Hainan Normal University, working on remote sensing and artificial intelligence."
+  avatar      : "profile.png"
